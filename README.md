@@ -28,8 +28,8 @@ train进行训练，dev用于训练过程的评估，test用于最终对best_mod
 ### 策略三
 ------暂未实现-----
 ## 结果
-策略一的最好结果----RMSE：----MAE：<br> 
-策略二的最好结果----RMSE:9.83 ----MAE:7.47<br> 
+策略一的最好结果----RMSE：9.83----MAE：7.47<br> 
+策略二的最好结果----RMSE:RMSE: 8.8970, MAE: 6.7681<br> 
 与Baseline对比：<br> 
 <img width="918" height="351" alt="image" src="https://github.com/user-attachments/assets/32c3c9fd-12be-43a0-812c-f4922eb178fd" />
 
